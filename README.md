@@ -34,4 +34,4 @@ A blockchain-based certificate verification system built with Solidity, JavaScri
 
 ## Team Members
 - Tharushi Imasha
-- (add other members here)
+
