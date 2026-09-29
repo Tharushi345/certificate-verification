@@ -19,6 +19,7 @@ A blockchain-based certificate verification system built with Solidity, JavaScri
 - `CertificateRegistry.sol` - smart contract
 - `index.html` - user interface
 - `app.js` - connects the interface to the smart contract
+- `home.png`, `issue.png` - screenshots
 
 ## How It Works
 1. The university admin deploys the `CertificateRegistry` contract.
@@ -32,6 +33,20 @@ A blockchain-based certificate verification system built with Solidity, JavaScri
 3. Put the deployed contract address in `app.js`.
 4. Open `index.html` in your browser and connect MetaMask.
 
+## Screenshots
+
+### Home Page
+![Home](home.png)
+
+### Issue Certificate
+![Issue](issue.png)
+
+## Contract Details
+- Network: Sepolia Testnet
+- Contract Address: `0x...` (add your deployed contract address here)
+
 ## Team Members
 - Tharushi Imasha
+- (add other members here)
+
 
